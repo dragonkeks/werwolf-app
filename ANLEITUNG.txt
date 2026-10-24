@@ -1,0 +1,12 @@
+WERWOLF – HANDY-WEB-APP
+
+1. ZIP entpacken. Alle Dateien und den Ordner icons zusammen lassen.
+2. Ein neues öffentliches GitHub-Repository erstellen. Dateien aus dem Ordner werwolf_webapp ins Stammverzeichnis hochladen (index.html muss ganz oben liegen).
+3. GitHub: Settings > Pages > Build and deployment > Deploy from a branch > main > /(root) > Save.
+4. Die auf GitHub Pages angezeigte HTTPS-Adresse im Handy-Browser öffnen.
+5. iPhone: Safari > Teilen > Zum Home-Bildschirm. Android: Chrome > Drei Punkte > Zum Startbildschirm hinzufügen / App installieren.
+6. Die App einmal online laden, anschließend kann sie nach erfolgreicher Cache-Installation offline genutzt werden.
+
+WICHTIG: Die gespeicherten Partien liegen lokal in diesem Browser auf diesem Gerät.
+Beim Wechsel von der bisherigen lokalen HTML-Datei zur Website werden alte Spielstände NICHT automatisch übertragen.
+Browserdaten löschen/privater Modus kann Spielstände entfernen. Vor der echten Partie einmal testen.
